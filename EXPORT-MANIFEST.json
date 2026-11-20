@@ -106,7 +106,7 @@
       "name": "Spackler - Golf Practice",
       "full_name": "Spackler - Golf Practice",
       "title": "",
-      "description": "Manny's golf practice bot.",
+      "description": "Manny's golf practice coach. Builds his weekly home practice plans for Sunday, Monday and Wednesday after 8 PM (Garmin R50, bump turn board, divot board), all grayscale and in full sentences. Refreshes his Arccos Dashboard Page every Friday and writes the key stats to /workspace/golf/practice-state.md. The current plan is /workspace/golf/practice-plan-v2.pdf, with a copy in C:\\Users\\Manny\\Documents\\Golf Practice on his laptop. The Arccos Dashboard Page opens from his desktop shortcut \"Arccos Dashboard\".",
       "serverId": "13640702"
     },
     {
@@ -413,6 +413,16 @@
       "summary": "Moved to Routines from Email Purger on Nov 12, 2026."
     },
     {
+      "file": "routines/prompts/carrier-bulletin-digest.md",
+      "name": "carrier bulletin and rate-change digest",
+      "summary": "Created by Routines on Nov 20, 2026 (Manny picked idea 4 from the weekly routine ideas)."
+    },
+    {
+      "file": "routines/prompts/erev-shabbos-prep-card.md",
+      "name": "Erev Shabbos and Yom Tov prep card",
+      "summary": "Created by Routines on Nov 20, 2026 (Manny picked idea 3 from the weekly routine ideas)."
+    },
+    {
       "file": "routines/prompts/golf-practice-evening-reminder.md",
       "name": "golf practice evening reminder",
       "summary": "SKIP WINDOW (added Nov 17, 2026 at Manny's request \"Pause golf practice this week\", relayed by Connor): if today's America/New_York date is from 2026-11-17 through 2026-11-21,\u2026"
@@ -518,6 +528,11 @@
       "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
     },
     {
+      "file": "routines/prompts/weekly-practice-plan-tune-up.md",
+      "name": "weekly practice plan tune-up",
+      "summary": "Created by Routines on Nov 20, 2026 (Manny picked idea 5 from the weekly routine ideas)."
+    },
+    {
       "file": "routines/prompts/weekly-renewals-due-list.md",
       "name": "weekly renewals due list",
       "summary": "Created by Routines on Nov 13, 2026 (Manny picked idea 2; he chose 30 and 60 day windows, not 90)."
@@ -541,13 +556,14 @@
   "stats": {
     "bots": 15,
     "skills": 63,
-    "routine_prompts": 29,
-    "files_copied": 215,
+    "routine_prompts": 32,
+    "files_copied": 218,
     "redactions": {
       "personal_email": 26
     },
     "redacted_file_count": 15,
     "files_skipped_large": [],
     "files_skipped_other_count": 0
-  }
+  },
+  "updated": "2026-11-20 13:00 America/New_York"
 }

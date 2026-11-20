@@ -59,3 +59,5 @@
 - 2026-11-20 [Routines]: ams-weekday-reminder.md now says Manny is never cc'd or bcc'd on the Payment claim emails (rule relayed by Connor Nov 20). Backup in backups/.
 - 2026-11-20 [Routines]: New routine parsha-trailer-handoff (Fri 9:20 AM ET) created at Animator-Video Creator's request; prompt in prompts/parsha-trailer-handoff.md.
 - 2026-11-20: Created arccos-dashboard-friday-refresh (Fri 7:00 AM ET handoff to Spackler), requested by Manny via Spackler.
+- 2026-11-20: Built 3 routines Manny picked from the weekly ideas ("3,4,5"): erev-shabbos-prep-card (Sun-Fri 8:30 AM, posts only on Erev), carrier-bulletin-digest (Tue 10 AM), weekly-practice-plan-tune-up (Sun 4 PM, handoff to Spackler).
+- 2026-11-20: Usage fixes (Manny 'apply all fixes'): wiki sync listing-hash shortcut; follow-ups watch no archive context; Arccos Fri/Sun share /workspace/golf/practice-state.md.

@@ -1,4 +1,4 @@
-# Which bot owns what (updated 2026-11-13, Alfred)
+# Which bot owns what (updated 2026-11-20, Alfred)
 The routing rules are also in the route-to-the-right-bot skill (Alfred keeps it current). Hand a request to its owner so the work stays in that bot's chat.
 
 | Bot | Owns |
@@ -10,6 +10,7 @@ The routing rules are also in the route-to-the-right-bot skill (Alfred keeps it 
 | Spackler | Golf |
 | Insurance info · Meeting Prep | Insurance and office operations questions, wiki sync, meeting prep |
 | Parsha | Weekly teen parsha PDF (Fridays) |
+| Animator-Video Creator (772b090b-baea-4078-b092-2ffb3e756e47) | Motion videos, and book and parsha trailers (for example Stay Connected and the weekly parsha trailer) |
 | Email Purger | Personal Gmail (mannytopper@gmail.com) cleanouts: review newsletters/promotions/stale mail, propose delete/archive/unsubscribe grouped by type; never change mail without Manny's approval |
 | Volt - Usage Audit (e6a00c3e-b96b-40e3-a8fe-c331c57371bf) | Owns fleet usage review and checkups (folded in from Usage Guard Nov 16, 2026, Manny's yes): plan usage by bot, ranked fix proposals with yes/no, and the three Checkup checks (manual only); never deletes; asks each bot before changes; works in `/workspace/usage-guard/` and `/workspace/checkup/`; weekly Mon 8:45 AM run starts OFF and needs Manny's separate yes. |
 | Usage Guard | RETIRED Nov 16, 2026 (Manny's yes; folded into Volt). Manny deletes it from the sidebar himself. Never route work here. |
@@ -31,3 +32,4 @@ Retired (Oct 2026): Side Hustle CEO, Domain Work, Grok Main Bot, Deal Watcher, L
 - (2026-11-13, Alfred · Bot Chief Advisor) Manny's yes in Alfred's chat: Call List Remover was merged into Ultimate Privacy Scrub (the renamed Privacy Scrubber, id 092ee779-d5aa-4635-8541-c70f79cd32d2), which now owns people-search opt-outs plus Do Not Call, carrier and prescreen opt-outs. Routines was asked for a yearly Do Not Call check. Never route anything to Call List Remover.
 - (2026-11-16, Alfred · Bot Chief Advisor) Manny's typed yes in Usage Guard's chat: Usage Guard was folded into Volt - Usage Audit (e6a00c3e-b96b-40e3-a8fe-c331c57371bf), which now owns fleet usage review and checkups. Routines' hands-off exception now covers Volt. Also on Nov 16, Alfred's Grokbot dashboard refresh and original Friday review routines were deleted.
 - (2026-11-16, Alfred · Bot Chief Advisor) Manny retired Usage Guard ("retire usage guard, i will manually delete it"). Volt - Usage Audit owns all usage and checkup work.
+- (2026-11-20, Alfred · Bot Chief Advisor) Manny typed his yes in Routines' chat (11:01 AM ET): Animator-Video Creator owns motion videos and book and parsha trailers. route-to-the-right-bot is updated to match.

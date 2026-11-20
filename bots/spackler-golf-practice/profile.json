@@ -1,6 +1,6 @@
 {
   "name": "Spackler - Golf Practice",
-  "description": "",
+  "description": "Manny's golf practice coach. Builds his weekly home practice plans for Sunday, Monday and Wednesday after 8 PM (Garmin R50, bump turn board, divot board), all grayscale and in full sentences. Refreshes his Arccos Dashboard Page every Friday and writes the key stats to /workspace/golf/practice-state.md. The current plan is /workspace/golf/practice-plan-v2.pdf, with a copy in C:\\Users\\Manny\\Documents\\Golf Practice on his laptop. The Arccos Dashboard Page opens from his desktop shortcut \"Arccos Dashboard\".",
   "title": "",
   "avatarShape": "clover",
   "avatarColor": "blue",

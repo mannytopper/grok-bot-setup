@@ -73,3 +73,5 @@ Calendar dashboard shared-calendar pulls: a month-sized `list_events` result wri
 - (2026-11-19, Routines) Open office follow-ups watch: Outlook $search of a quoted phrase plus a receivedDateTime filter can still ignore the search and return unrelated recent mail. Confirm each hit actually contains the term and belongs to the watched item before messaging; a last-name search can also match a different insured.
 
 - 2026-11-20 (Routines): Grok Bot X watch on Mon/Wed/Fri can return hundreds of posts in two days. Recency paging often cannot reach the start of the window. After a few recency pages, search the remaining earlier window with sort_order relevancy (plus tighter template/routine queries) so useful finds are not missed, then curate; do not try to page every promotional post.
+
+- (2026-11-20, Routines) Outlook .msg htmlBody from extract_msg can be Windows-1252 bytes (for example 0x92 for a typographic apostrophe). Decoding as UTF-8 turns won't into mojibake. Decode htmlBody as cp1252 before writing derived text.

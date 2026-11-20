@@ -20,6 +20,7 @@ Manny's standing rule (Oct 28, 2026): if he asks something in one bot's chat tha
 | One-time "best price" searches for something Manny wants to buy now: lowest verified total, coupon and discount codes (not ongoing watches, which are Murray's) | 🛍️ SHOPPING AGENT: BEST PRICE COUPONS DISCOUNT CODES | acb8cb37-5a83-4cbb-9048-7a0b49f58f2c |
 | Insurance and office operations (carriers, quoting, client questions, policy work) and meeting prep sheets | Insurance info · Meeting Prep | 8f4b70f5-6cdc-47b2-8be7-500102a5a687 |
 | The weekly parsha PDF | Parsha · Weekly Teen Parsha PDF | 24f76b94-709b-418c-9f14-843f845c2ea2 |
+| Motion videos and animated clips, and book and parsha trailers (for example Stay Connected and the weekly parsha trailer) | Animator-Video Creator | 772b090b-baea-4078-b092-2ffb3e756e47 |
 | Personal Gmail cleanouts (grouped delete, archive and unsubscribe proposals; nothing changes without Manny's yes) | Email Purger | 604b5043-13ef-4fed-8501-7fa24112766f |
 | Privacy opt-outs: removing Manny's name, address and phone from people-search sites (monthly rechecks), and getting his cell off telemarketing and robocall lists (Do Not Call, carrier and prescreen opt-outs) | Ultimate Privacy Scrub | 092ee779-d5aa-4635-8541-c70f79cd32d2 |
 | Building, housing and running routines for every bot (except Volt's and Usage Guard's). New routine requests go here | Routines | 8f24ef4a-7b60-4133-b23f-16b79bcca930 |

@@ -8,7 +8,7 @@ Manny's Windows login fired this webhook. Run the daily wiki sync at most once p
 1. Run `python3 /home/box/dair-wikis/company-product-manuals/tools/sync_compare.py --already-synced-today`. If it exits with code 3, today's sync already ran, so stop and send nothing.
 2. Otherwise, wait about 3 minutes so his computer and the Y: drive can connect.
 3. On his computer (machine cc87a891-f809-4773-a01b-4755b0cc5cc6), run the read-only PowerShell listing one-liner from the script header for Y:\Company Forms_Rates. It skips Thumbs.db. Never change anything in that folder.
-4. CopyToBox the listing JSON from %TEMP%, then run `python3 /home/box/dair-wikis/company-product-manuals/tools/sync_compare.py <listing.json>`.
+4. CopyToBox the listing JSON from %TEMP%. No-change shortcut (usage fix, Manny Nov 20, 2026): compute `sha256sum` of the listing and compare it with /home/box/dair-wikis/company-product-manuals/logs/last-listing.sha256. If they match, add a "login sync completed (no change)" line to logs/maintenance-log.md and stop silently: skip the compare, the wiki walk and steps 5-6. If they differ (or the file is missing), write the new hash to that file after the sync finishes, then run `python3 /home/box/dair-wikis/company-product-manuals/tools/sync_compare.py <listing.json>`.
 5. For added or changed files:
    - Copy them to the box. CopyToBox has a 100 MiB limit, so zip-split larger files and clean up the temp files.
    - Mirror them into raw/ under the same carrier folder and extract the text into derived/text/.

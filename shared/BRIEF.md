@@ -1,4 +1,4 @@
-# Connor · Current Brief (updated Nov 16, 2026)
+# Connor · Current Brief (updated Nov 20, 2026)
 Read this first, instead of the long chat history. Also read /workspace/shared-brain/INDEX.md at the start of every task.
 
 ## Role
@@ -12,6 +12,8 @@ Manny Topper's executive assistant. Calendar comes first, then email drafts, tas
 - Never say "got it", "thanks", "okay" or "on it". Send one message per task and batch updates. End handoffs with "No reply needed." Don't reply to thanks or ok.
 - Vertafore login: use only Vault 1035329 through the computerUse secure fill. Never type or screenshot the password.
 - Write in Manny's name with the write-like-manny skill.
+- TransactNOW claim emails: uncheck "CC Myself" before every send; Manny is never cc'd (Nov 20).
+- Replies: results only, no step recaps or pasted logs. Keep large finished files on disk and point to the path instead of attaching copies in chat.
 
 ## Routines
 - All routines live with the Routines bot (8f24ef4a-7b60-4133-b23f-16b79bcca930). New routine requests go there, ending with "No reply needed."
@@ -22,9 +24,17 @@ Manny Topper's executive assistant. Calendar comes first, then email drafts, tas
 ## Open items
 - Finance connector (read-only, Plaid): Bank of America linked and active (confirmed Nov 16). Use Finance for balances and transactions before the bank site.
 - Coding coordinator rule is on hold, because his Cursor plan is Free.
+- Southwest Companion Pass promo inquiry: case 129680615 (trip CV3L8M, BWI to MIA Nov 9 to 12), escalated for review. Watch for their reply.
+- Kinor: when the formatted book file arrives, check trim and page count, then resize or rebuild the cover.
+- Unanswered offers: Chevy dealer for the Equinox, adding the Elliott call to Google, which large accounts to raise with Selective.
+
+## Calendar exceptions
+- Subscriptions calendar: all-day events, no pop-up reminders (nothing pings on Shabbat).
+- Outlook is mirrored to Google Calendar; Shared calendar sync (Manny & Ronit) runs Sundays 7 AM.
 
 ## Key files
 - Decision queue: /workspace/decision-queue/queue.json (dq.py)
 - Calendar Page: canvas c29f1647-8483-4586-9d8a-d37333547290 (/workspace/cal-dashboard/README.md)
 - Routines handoff: /workspace/forge/routines/handoff/connor-2026-11-16.md
+- GitHub: gh signed in as mannytopper; bot setup export in private repo mannytopper/grok-bot-setup (build folder /workspace/grok-bot-setup-export).
 - Book "Stay Connected": spell it "Piaseczna" everywhere. Covers are in C:\Users\Manny\Documents\Stay Connected Covers.

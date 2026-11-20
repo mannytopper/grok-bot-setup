@@ -2,7 +2,7 @@
 
 Private snapshot of Manny Topper's Grok Bot fleet: bot profiles, reusable skills, routine prompts and schedules, and shared standing rules.
 
-**Exported:** November 20, 2026 (America/New_York)  
+**Exported:** November 20, 2026 (America/New_York); updated November 20, 2026, 1 PM ET  
 **Source:** on-disk files from the shared Grok Bot box (`/home/box/agent-data` and `/workspace`)  
 **Repository:** private
 
@@ -34,7 +34,7 @@ These are the bot folders present on disk at export time. Titles come from each 
 | Animator-Video Creator | — | A personal motion graphic designer. | `animator-video-creator` |
 | Routines | — | Routines houses and runs every routine for Manny Topper's bots (except Usage Guard and Volt - Usage Audit, which are never touched; never create a Volt schedule). | `routines` |
 | Insurance info | Meeting Prep | Manny's insurance and office operations bot at Wealcatch Insurance. | `insurance-info-meeting-prep` |
-| Spackler - Golf Practice | — | Manny's golf practice bot. | `spackler-golf-practice` |
+| Spackler - Golf Practice | — | Manny's golf practice coach. Builds his weekly home practice plans for Sunday, Monday and Wednesday after 8 PM (Garmin R50, bump turn board, divot board), all grayscale and in full sentences. Refreshes his Arccos Dashboard Page every Friday and writes the key stats to /workspace/golf/practice-state.md. The current plan is /workspace/golf/practice-plan-v2.pdf, with a copy in C:\Users\Manny\Documents\Golf Practice on his laptop. The Arccos Dashboard Page opens from his desktop shortcut "Arccos Dashboard". | `spackler-golf-practice` |
 | 🛍️ SHOPPING AGENT: BEST PRICE COUPONS DISCOUNT CODES | — | Finds the lowest verified total price for anything you want to buy, tests coupon codes, and shows every discount and how it applies. | `shopping-agent-best-price-coupons-discount-codes` |
 | Connor | Executive Assistant | Executive Assistant to Manny Topper. | `connor-executive-assistant` |
 | Volt - Usage Audit | — | Volt watches Manny Topper’s Grok Bot plan usage and routines. | `volt-usage-audit` |
@@ -111,7 +111,7 @@ Names and descriptions are taken from each skill's YAML frontmatter.
 | x-watch-deck-build | Use when running a periodic X (Twitter) watch for posts about a topic and turning new finds into a PowerPoint deck plus an email summary, skipping anything already reported. | `x-watch-deck-build` |
 | youtube-summary-one-pager | Use when someone sends a YouTube link and wants it summarized, in chat and/or as a graphical one-page PDF/PNG summary. | `youtube-summary-one-pager` |
 
-## Routines (29 current prompts)
+## Routines (32 current prompts)
 
 Current prompt files live in `routines/prompts/`. Supporting parts for the morning combined run are in `routines/prompts/morning-parts/`. Schedules, owners, and move notes from the November 12, 2026 inventory are in `routines/inventory.md`. Context write-ups and handoff prompt copies are in `routines/context/` and `routines/handoff/`.
 
@@ -121,6 +121,8 @@ Current prompt files live in `routines/prompts/`. Supporting parts for the morni
 | answer emailed insurance questions | Moved to Routines from Insurance info · Meeting Prep on Nov 12, 2026. | `routines/prompts/answer-emailed-insurance-questions.md` |
 | Arccos Dashboard Friday refresh (requested by Manny via Spackler, Nov 20, 2026: "refresh every friday") | 1. | `routines/prompts/arccos-dashboard-friday-refresh.md` |
 | biweekly work outlook cleanout | Moved to Routines from Email Purger on Nov 12, 2026. | `routines/prompts/biweekly-work-outlook-cleanout.md` |
+| carrier bulletin and rate-change digest | Created by Routines on Nov 20, 2026 (Manny picked idea 4 from the weekly routine ideas). | `routines/prompts/carrier-bulletin-digest.md` |
+| Erev Shabbos and Yom Tov prep card | Created by Routines on Nov 20, 2026 (Manny picked idea 3 from the weekly routine ideas). | `routines/prompts/erev-shabbos-prep-card.md` |
 | golf practice evening reminder | SKIP WINDOW (added Nov 17, 2026 at Manny's request "Pause golf practice this week", relayed by Connor): if today's America/New_York date is from 2026-11-17 through 2026-11-21,… | `routines/prompts/golf-practice-evening-reminder.md` |
 | griots interior cleaner checkin | Moved from Connor to Routines on Nov 16, 2026 (Manny said yes). | `routines/prompts/griots-interior-cleaner-checkin.md` |
 | grokbot dashboard refresh | Moved to Routines from Alfred · Bot Chief Advisor on Nov 12, 2026. | `routines/prompts/grokbot-dashboard-refresh.md` |
@@ -142,6 +144,7 @@ Current prompt files live in `routines/prompts/`. Supporting parts for the morni
 | weekday local feed | Moved to Routines from Murray · Family and Home on Nov 12, 2026. | `routines/prompts/weekday-local-feed.md` |
 | weekly company grok bot improvement review | Moved to Routines from Alfred · Bot Chief Advisor on Nov 12, 2026. | `routines/prompts/weekly-company-grok-bot-improvement-review.md` |
 | weekly grok bot setup review | Moved from Connor to Routines on Nov 16, 2026 (Manny said yes). | `routines/prompts/weekly-grok-bot-setup-review.md` |
+| weekly practice plan tune-up | Created by Routines on Nov 20, 2026 (Manny picked idea 5 from the weekly routine ideas). | `routines/prompts/weekly-practice-plan-tune-up.md` |
 | weekly renewals due list | Created by Routines on Nov 13, 2026 (Manny picked idea 2; he chose 30 and 60 day windows, not 90). | `routines/prompts/weekly-renewals-due-list.md` |
 | weekly usage leak check | Requested by Manny in Volt's chat, Nov 16, 2026 (relayed by Volt). | `routines/prompts/weekly-usage-leak-check.md` |
 | wiki sync on login company forms rates | Moved to Routines from Insurance info · Meeting Prep on Nov 12, 2026. | `routines/prompts/wiki-sync-on-login-company-forms-rates.md` |
@@ -175,5 +178,5 @@ Redactions applied in this export:
 
 - Bots: 15
 - Skills: 63
-- Current routine prompt files: 29
-- Files copied into this repository: 215
+- Current routine prompt files: 32
+- Files copied into this repository: 218
