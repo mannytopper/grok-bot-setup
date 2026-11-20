@@ -1,0 +1,61 @@
+# Routine moves log (Routines bot)
+
+## 2026-11-12
+- Created "Weekly routine sweep" on Routines (folder weekly-routine-sweep), Mondays 9:00 AM ET, flexible, enabled. First run Nov 16.
+- Asked for routine details (prompt, trigger, timing, state, connectors, scripts, skills, memory, permissions): Connor, Murray, Insurance info · Meeting Prep, Parsha, Alfred, Spackler, Email Purger, Dreamer. Awaiting replies. Nothing paused yet.
+- Skipped: Usage Guard (never touched), Dan and Forge (no routines per shared brain).
+- Standing note sent (Forge's step 2): from now on every bot hands new routine requests to Routines.
+- 06:2x Replies in: Murray (6, Miami brief excluded: ends today), Insurance info (4), Email Purger (2), Connor (8), Spackler (3), Parsha (2), Dreamer (6). Alfred pending. Nothing paused anywhere.
+- Checks: Gmail, Outlook, Outlook calendar and Google Calendar connectors are connected on Routines; inbox mtopper@mail.grokbot.com; WHI-LT-26-03 registered, offline right now.
+- Building context files + /workspace/routines/inventory.md (in progress).
+- Told Spackler to keep its Nov 15 resume one-off on its original.
+- Manny decisions relayed (each in its own bot's chat): Dreamer "move all six" (6:22 AM); Email Purger "Stay here" (proposal and approval stay in Email Purger chat; copies hand proposals to Email Purger).
+- Created on Routines (from Dreamer): weekly-grok-bot-x-tips, weekly-bot-scorecard, weekly-routine-ideas, weekly-grok-bot-marketplace-template-check (enabled, first run Fri Nov 13); weekly-bot-fleet-audit (PAUSED, stale Nov 5 follow-up paragraph dropped). Destinations now the Routines chat. Asked Dreamer to pause those 4 originals.
+- Pending: nightly-dreaming-logs-to-skills (Dreamer export truncated step 3; full text requested). Goals now in /workspace/dreamer/goals.md, journal in /workspace/dreamer/journal.md.
+- Next: after Friday Nov 13 runs are correct, add the Dreamer originals to delete-list.md.
+- Alfred replied (4 routines; handoff in /workspace/routines/handoff/). Pausing its originals needs Manny's yes in Alfred's chat. All 8 bots have now answered.
+- Dreamer confirmed its 4 Friday originals are paused. Created nightly-dreaming-logs-to-skills-and-goals on Routines (first run tonight about 9:30 PM ET). Asked Dreamer to pause its nightly original and seed /workspace/dreamer/journal.md with its last run time.
+- Prepared context files and inventory for the move (no routines created, paused, or changed; no one messaged).
+  - Wrote 28 context files under `/workspace/routines/context/` for Murray (5; skipped miami-trip-daily-brief), Insurance info (4), Parsha (2), Connor (8), Email Purger (2), Spackler (3), and Alfred (4).
+  - Left Dreamer's six existing context files untouched and listed them in inventory as moving now.
+  - Inventory and decisions: `/workspace/routines/inventory.md`.
+  - Email Purger proposed copies hand proposals to Email Purger (agent 604b5043-13ef-4fed-8501-7fa24112766f) per Manny's Nov 12 "Stay here" decision; that item is not in Decisions for Manny.
+  - Connor's eight verbatim prompts could not be retrieved from the Nov 12 ~11:20Z UpdateRoutine get results (ReadTranscript omits tool calls). Seven files use the Nov 9 export prompt, flagged. AMS current reminder prompt was not retrieved; the Nov 9 automated-run prompt is marked superseded.
+- 06:31 Inventory + 28 context files done (/workspace/routines/inventory.md). Connor prompts not verbatim; asked Connor to write them to /workspace/routines/handoff/connor-*.prompt.txt. Created one-off 'Send Manny the hook addresses' Fri Nov 13 10:15 AM ET (Manny asked). Decisions: keep Connor's Nov 13 Finance one-off on Connor; move Spackler's evening reminder + resume one-off together after Nov 15.
+- 06:34 Manny (Routines chat) granted: staff auto-replies (Oct 14 permission), standing emails same recipients, WHI-LT-26-03 for save/print/meeting prep copies. Chose: AMS run moves to Routines; Routines makes Nov 13 parsha sheet; Alfred's 4 move; Alfred one-pager to 10:30 AM ET.
+- Created weekly-parsha-pdf (enabled, first run Fri Nov 13 9:30 AM) and parsha-backup-check (paused). Asked Parsha to pause its original today.
+- 06:35 Manny approved building the remaining copies. The helper is preparing build specs in /workspace/routines/build/ (everything except Connor's, which are waiting on his verbatim prompts).
+- 06:37 Manny answered yes in the Routines chat: Parsha should pause its own weekly-parsha-pdf. I sent his exact words to Parsha (pause still to be confirmed).
+- Nov 13 05:45 Manny approved Dreamer's Dan cleanup goal; sent to Dan; goals.md marked approved.
+- Nov 12 06:40 / Nov 13 05:50 Created 18 copies from build/ (each prompt points to /workspace/routines/prompts/<slug>.md). All are paused until the owner pauses its original, except resume-golf-practice-reminder (Nov 15, enabled). The Muni watch and the monthly and quarterly reviews stay paused per spec.
+- Nov 13 05:52 Asked Murray, Email Purger and Spackler to pause their originals. Insurance info and Alfred need Manny's word in their own chats. The wiki sync needs Manny's OK for local use of Y:\Company Forms_Rates on WHI-LT-26-03.
+- Nov 13 05:47 Manny said yes in the Routines chat: Murray pauses its 5 routines, Email Purger pauses its 2, and Spackler's reminder and Nov 15 resume move to Routines. I sent his exact words to each bot. My copies get turned on after each bot confirms its pause. My resume one-off stays paused until Spackler turns off its own.
+- Nov 13 05:48 Manny approved reading Y:\Company Forms_Rates on WHI-LT-26-03 for the wiki sync. I added this to the prompt file. The wiki sync still needs Insurance info to pause its original and the webhook to be repointed.
+- Nov 13 05:50 Murray, Email Purger and Spackler confirmed their originals are paused. I turned on my 5 Murray copies, 2 Email Purger copies and the golf resume one-off, and added a first-Monday check to the Gmail cleanout prompt.
+- 2026-11-13 7:21 AM: Alfred relayed Manny's Mondays-only decision for morning run Parts D/E; noted in handoff/connor-morning-run-edits.md for the Connor copy build. Alfred FYI: Checkup merged into Usage Guard (not touched by Routines).
+- 2026-11-13 8:52 AM: Per Manny via Alfred (Connor chat 8:50 AM): paused weekly-bot-scorecard; nightly-dreaming now Fridays ~11 AM only, gate --days Fri, covers since previous Friday. shared-brain/routines.md updated.
+- 2026-11-13 9:26 AM: Manny (Routines chat): weekly-parsha-pdf moved to Fri 9:00 AM; one-off parsha-sheet-run-now-nov-13 at 9:30 AM today. Server listed weekly's next run as 8:52 AM today (past), so watch for a duplicate run; the copy-already-there check stops a second print.
+- 2026-11-13 9:56 AM: Per Manny (Alfred chat 9:54): Alfred paused its Friday original; Routines' weekly-company-grok-bot-improvement-review resumed with ask-first and no-print/action-items-only default. Monthly/quarterly/dashboard copies stay paused.
+- 2026-11-13 9:57 AM: Insurance info paused its 4 originals (Manny yes in its chat 9:55). Resumed answer-emailed-insurance-questions, wiki-sync-on-login-company-forms-rates, meeting-prep-docs-for-today-s-meetings, open-office-follow-ups-watch. mtopper@mail.grokbot.com is the user's shared address (listed in Routines' inboxes too); confirm on first real email that the +insurance/+meetingprep triggers fire on Routines. Wiki webhook still needs repointing (hook addresses one-off 10:15 AM).
+- 2026-11-13 10:02 AM: Created quarterly-people-search-recheck (from Privacy Scrubber, which deleted its copy). Ask-first then hand to Privacy Scrubber on Manny's yes.
+- 2026-11-13 10:02 AM: Manny: insurance answerer trigger narrowed to mtopper+insurance@ only (dropped bare mtopper@, which caught opt-out notices).
+- 2026-11-13 10:16 AM: Manny picked ideas 1,2,3. Created overdue-work-email-nudge (weekdays 1 PM) and sunday-family-week-ahead (Sun 8 AM). Idea 2 (renewals) blocked: Download Detail export has no expiration dates; needs saved AMS360 renewal report + Manny present for Vertafore login.
+- 2026-11-13 10:20 AM: Renewals: Vertafore 'Policy Expiration' + 'Expiring next 60 days' works; template save failed (viewer wouldn't open). Built /workspace/ams/clean_renewals.py (Active only, 30 / 31-60 sheets). Created weekly-renewals-due-list (Mon 9:30, ask-first). Completed run left in My Reports (expires 11/18).
+- 2026-11-13 10:21 weekly-renewals-due-list: cleaner filtered to Primary Executive = Topper, Manny (per Manny).
+
+- 2026-11-13 10:20 AM: Hook-address one-off ran. Message to Manny: wiki sync needs the new URL/Authorization pasted into webhook-command.ps1 (panel links only); shared calendar sync copy is not built yet so no URL to paste; desk-login has no webhook; email hooks stay the same. Then this one-off is deleted.
+- 2026-11-13 10:26 weekly-renewals-due-list: columns trimmed (no LOB/Rep); opens in Excel on WHI-LT-26-03 each run. Wiki sync hook repointed and tested OK (fixed Authorization line).
+- 2026-11-13 11:09 order-concierge-sweep: added purchase-list upkeep + hand changes to Murray (per Murray relaying Manny).
+- 2026-11-13 12:38 created yearly-do-not-call-check (via Alfred relaying Manny's yes).
+- 2026-11-15 12:10 PM ET: Resumed golf-practice-evening-reminder from parent (routine runs cannot enable routines); deleted one-off resume-golf-practice-reminder.
+- 2026-11-16 7:45 AM ET: Built Connor's 6 copies (Manny yes Nov 16 via Connor handoff; earlier "build the remaining copies now" in Routines chat). Prompts in routines/prompts/: morning-combined-run (id morning-combined-run, first run Nov 17), ams-weekday-reminder (id ams-weekday-reminder, Nov 17; Routines handles "run ams now"), shared-calendar-sync (id shared-calendar-sync-manny-ronit, Sun 7:00 exact + webhook; Power Automate flow must be repointed by Manny), monday-waiting-on-you-list (Nov 23), weekly-grok-bot-setup-review (Nov 23), griots-interior-cleaner-checkin (id griot-s-interior-cleaner-check-in-dec-10). Weekly usage dashboard refresh skipped (paused, replaced). Connor's Finance one-off stays with Connor.
+- 2026-11-16 8:55 AM ET: Manny yes to deleting 9 originals (Murray 2, Email Purger 1, Spackler 2, Insurance info 3, Alfred 1); requests sent to each bot.
+- 2026-11-16 8:54 AM ET: Manny typed 'yes delete all 9 originals' (t54u); relayed word for word to Murray, Spackler, Insurance info, Alfred, Email Purger (bots require typed yes, not card answers).
+- 2026-11-16: Volt - Usage Audit added to never-touch exception alongside Usage Guard (fold-in plan).
+- 2026-11-16: Usage trims per Manny's yes in Volt's chat: morning-combined-run split into index + morning-parts/A-F.md (verbatim); Friday review reads only changed transcripts. Backups in /workspace/routines/backups/.
+- 2026-11-16: Created weekly-usage-leak-check (Fri ~10:00 AM ET, flexible) per Manny's ask in Volt's chat; prompt prompts/weekly-usage-leak-check.md.
+- 2026-11-16 10:30 AM ET: Manny said remove dent puller kit routines (already purchased). Deleted Routines' FLY5D, BESTGLOAL, GLISTON watches; prompts moved to retired/; Murray asked to delete its 3 paused originals.
+- 2026-11-17: Golf practice evening reminder set to skip Nov 17-21 (Manny via Connor, 'Pause golf practice this week'). Used a dated skip line in the prompt instead of pausing, so it resumes Nov 22 without anyone re-enabling it.
+- 2026-11-20 [Routines]: ams-weekday-reminder.md now says Manny is never cc'd or bcc'd on the Payment claim emails (rule relayed by Connor Nov 20). Backup in backups/.
+- 2026-11-20 [Routines]: New routine parsha-trailer-handoff (Fri 9:20 AM ET) created at Animator-Video Creator's request; prompt in prompts/parsha-trailer-handoff.md.
+- 2026-11-20: Created arccos-dashboard-friday-refresh (Fri 7:00 AM ET handoff to Spackler), requested by Manny via Spackler.

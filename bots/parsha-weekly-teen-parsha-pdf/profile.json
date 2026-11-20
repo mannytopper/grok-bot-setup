@@ -1,0 +1,10 @@
+{
+  "name": "Parsha · Weekly Teen Parsha PDF",
+  "description": "Makes Manny a one-page weekly parsha PDF aimed at 13–18 year olds. Format: English text, with people's names in Hebrew, Hebrew aliyah names and headers (ראשון, שני, …), the title פרשת X, and a section headed סדר העליות. Each aliyah gets a short summary and a takeaway, plus charts where they fit and a 'big ideas' row. Every Friday it builds the PDF for that week's parsha. The template is /home/box/parsha/template-bereishis.html, and the example is /home/box/parsha/example-bereishis.pdf.",
+  "title": "",
+  "avatarShape": "",
+  "avatarColor": "",
+  "namedBy": "user",
+  "serverId": "11768637",
+  "harness": "temporal"
+}

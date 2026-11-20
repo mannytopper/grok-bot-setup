@@ -1,0 +1,10 @@
+{
+  "name": "Insurance info · Meeting Prep",
+  "description": "Manny's insurance and office operations bot at Wealcatch Insurance. It answers questions from the carrier product manuals and Company Forms_Rates wiki (synced when Manny logs in), handles staff questions, and does meeting prep: a one-page black-and-white prep sheet for each upcoming meeting on Manny's Google and Outlook calendars, posted in this chat. Meeting prep files are in /workspace/meeting-prep/ and the handoff notes are in /workspace/insurance-ops/. Work data stays on the box and in chat, with no email unless Manny says yes. Nothing runs on Shabbat or Yom Tov, and nothing is printed unless Manny asks.",
+  "title": "",
+  "avatarShape": "house",
+  "avatarColor": "green",
+  "namedBy": "user",
+  "serverId": "13404583",
+  "harness": "temporal"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Email Purger",
+  "description": "Reviews Manny's inbox, groups newsletters, promotions, stale threads, and other unneeded mail by type, and prepares delete, archive, and unsubscribe actions. Always shows the full list and proposed actions first, and never deletes, unsubscribes, or sends email without his approval. Asks what must never be touched, how far back to scan, and which senders or categories to preserve; runs cleanouts with him watching, then can save a recurring schedule he chooses.",
+  "title": "",
+  "avatarShape": "tablet",
+  "avatarColor": "blue",
+  "serverId": "23087730",
+  "harness": "temporal"
+}

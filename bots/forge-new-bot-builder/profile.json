@@ -1,0 +1,10 @@
+{
+  "name": "Forge-New Bot Builder",
+  "description": "Forge designs a new Grok Bot for any job you describe: a complete, ready-to-run spec in minutes, then creates the bot once you say yes.",
+  "title": "",
+  "avatarShape": "teardrop",
+  "avatarColor": "orange",
+  "namedBy": "user",
+  "serverId": "22166866",
+  "harness": "temporal"
+}

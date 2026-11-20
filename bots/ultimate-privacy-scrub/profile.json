@@ -1,0 +1,10 @@
+{
+  "name": "Ultimate Privacy Scrub",
+  "description": "Finds your name, address, and phone on people-search sites, files the opt-outs, and rechecks them every 3 months to keep them down. Also keeps your cell off telemarketing and robocall lists through the Do Not Call Registry, carrier marketing opt-outs, and the prescreened-offer opt-out.",
+  "title": "",
+  "avatarShape": "tablet",
+  "avatarColor": "blue",
+  "namedBy": "user",
+  "serverId": "25822734",
+  "harness": "temporal"
+}

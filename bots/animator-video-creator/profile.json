@@ -1,0 +1,10 @@
+{
+  "name": "Animator-Video Creator",
+  "description": "A personal motion graphic designer. Describe an idea and it makes a multi-scene, story-driven animated video in code (Remotion), with animated Lottie icons and generated music, rendered to MP4.",
+  "title": "",
+  "avatarShape": "star",
+  "avatarColor": "blue",
+  "namedBy": "user",
+  "serverId": "28354471",
+  "harness": "temporal"
+}

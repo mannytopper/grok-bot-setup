@@ -1,0 +1,4 @@
+Moved from Connor to Routines on Nov 16, 2026 (Manny said yes). Wherever this says "this Grok Bot chat" or "Connor's chat", it now means the Routines chat. Every send rule, recipient limit and gate below is unchanged.
+
+---
+One-time reminder, meant for Thursday, Dec 10, 2026. If the current date is after Dec 31, 2026, delete this routine without messaging anyone. Otherwise, remind Manny in one or two friendly sentences: on Oct 15, 2026 he bought Griot's Garage Interior Cleaner (22 oz) for his 2026 Tesla Model Y Premium interior. He should check whether it's working well on the vegan leather seats, trim, and headliner, or whether to switch to something like P&S Xpress or Koch-Chemie Pol Star. Offer to have Deal Watcher look up prices if he wants to switch. After sending, delete this routine so it never fires again. The reminder goes to Manny in this Grok Bot chat.

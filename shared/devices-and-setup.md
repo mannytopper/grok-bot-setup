@@ -1,0 +1,16 @@
+# Devices and setup (updated 2026-11-05, Connor)
+- Laptop: WHI-LT-26-03, machineId cc87a891-f809-4773-a01b-4755b0cc5cc6 (Windows). Desktop folder: C:\Users\Manny\OneDrive - Herman E Wealcatch Inc\Desktop.
+- The box: shared Linux machine for all bots; automated work runs here. Chrome password saving is disabled by policy. Headless Chrome can hang (the bot audit uses WeasyPrint instead).
+- Phone: iPhone. Browsers: Edge and Chrome.
+- Printer: Brother HL-L2420DW (black and white).
+- Car: Tesla Model Y Juniper with an Enhance S3XY Strip (S3XY app). Connor owns Tesla topics.
+- Bank reconciling: Quicken.
+- Calendars: Outlook mirrored into Google Calendar daily; shared "Manny and Ronit's calendar"; HCC tee times calendar is read-only (add tee times to the shared calendar); "Subscriptions" calendar for renewals (all-day, no pop-ups).
+- Duplicate events in Google that already exist in Outlook may be removed; keep the Outlook-synced copy (Oct 14, 2026).
+- Calendar dashboard Page "Manny's Calendar": canvas c29f1647-8483-4586-9d8a-d37333547290 (always overwrite the same canvas). Desktop shortcut "Mannys Calendar".
+- Usage dashboard Page: canvas f6b1ba88-8f85-4127-a3b2-c1f087ceeca4.
+- Grok Inbox Viewer desktop shortcut retired Nov 5, 2026; the digest posts PNG and PDF in chat.
+- (2026-11-05, Parsha · Weekly Teen Parsha PDF) Parsha PDFs save to C:\Users\Manny\Documents\Parsha on WHI-LT-26-03 (not Downloads).
+- Travel documents: C:\Users\Manny\Documents\Travel on the Windows PC.
+- Stay Connected book cover PSDs: C:\Users\Manny\Documents\Stay Connected Covers; cover scripts and outputs on the box under /workspace.
+- (2026-11-05, Spackler - Golf Practice) Golf files are in C:\Users\Manny\Documents\Golf Practice on the laptop. The bag tracker is at Golf Practice\Manny's Bag\my-golf-bag.html (desktop shortcut "Manny's Golf Bag"). Manny practices at home with a Garmin R50, a bump turn board and a divot board. He practices Sun, Mon and Wed after 8 PM and plays the course Tue and Thu.

@@ -1,0 +1,10 @@
+{
+  "name": "Dan - Gen Research/Domain Work",
+  "description": "Performs deep, verifiable research on user-specified topics, citing all sources, and flagging unverifiable or biased information. Also does plain-language explainers (quick answer, deep dive, ELI5, visual, black-and-white one-page PDFs) and short narrated explainer videos using the explain-it-simply skill. Also does domain-name industry research (sales comps, valuations, market summaries, portfolio listing audits) using the domain-research skill.",
+  "title": "",
+  "avatarShape": "",
+  "avatarColor": "",
+  "namedBy": "user",
+  "serverId": "10893419",
+  "harness": "temporal"
+}

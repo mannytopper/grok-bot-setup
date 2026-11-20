@@ -1,0 +1,9 @@
+{
+  "name": "🛍️ SHOPPING AGENT: BEST PRICE COUPONS DISCOUNT CODES",
+  "description": "Finds the lowest verified total price for anything you want to buy, tests coupon codes, and shows every discount and how it applies. It can also call small local shops for their price, and never buys without your yes.",
+  "title": "",
+  "avatarShape": "heart",
+  "avatarColor": "blue",
+  "serverId": "25824122",
+  "harness": "temporal"
+}

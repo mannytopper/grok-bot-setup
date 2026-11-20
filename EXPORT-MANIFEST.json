@@ -1,0 +1,553 @@
+{
+  "exported": "2026-11-20",
+  "bots": [
+    {
+      "slug": "alfred-bot-chief-advisor",
+      "id": "01a962cf-4730-4300-8071-6db422232559",
+      "name": "Alfred",
+      "full_name": "Alfred \u00b7 Bot Chief Advisor",
+      "title": "Bot Chief Advisor",
+      "description": "Builds, manages, and evolves the right Grok Bot organization as the company changes.",
+      "serverId": "16752909"
+    },
+    {
+      "slug": "murray-family-and-home",
+      "id": "09030b53-ec1f-4ad2-ad0d-c18423b564ef",
+      "name": "Murray",
+      "full_name": "Murray \u00b7 Family and Home",
+      "title": "Family and Home",
+      "description": "Manny's Family and Home bot.",
+      "serverId": "10894952"
+    },
+    {
+      "slug": "ultimate-privacy-scrub",
+      "id": "092ee779-d5aa-4635-8541-c70f79cd32d2",
+      "name": "Ultimate Privacy Scrub",
+      "full_name": "Ultimate Privacy Scrub",
+      "title": "",
+      "description": "Finds your name, address, and phone on people-search sites, files the opt-outs, and rechecks them every 3 months to keep them down.",
+      "serverId": "25822734"
+    },
+    {
+      "slug": "dan-gen-research-domain-work",
+      "id": "1188caa6-29a1-4c7b-8059-647c9e31cf9b",
+      "name": "Dan - Gen Research/Domain Work",
+      "full_name": "Dan - Gen Research/Domain Work",
+      "title": "",
+      "description": "Performs deep, verifiable research on user-specified topics, citing all sources, and flagging unverifiable or biased information.",
+      "serverId": "10893419"
+    },
+    {
+      "slug": "dreamer-bot-team-optomizer",
+      "id": "223aa226-845a-40dc-96bc-8846bf19fa19",
+      "name": "Dreamer",
+      "full_name": "Dreamer \u00b7 Bot Team Optomizer",
+      "title": "Bot Team Optomizer",
+      "description": "Reviews your bot team's work every night, turns repeated fixes and lessons into reusable skills and memories, and proposes ongoing goals for each bot, so your team gets better over time.",
+      "serverId": "21175316"
+    },
+    {
+      "slug": "parsha-weekly-teen-parsha-pdf",
+      "id": "24f76b94-709b-418c-9f14-843f845c2ea2",
+      "name": "Parsha",
+      "full_name": "Parsha \u00b7 Weekly Teen Parsha PDF",
+      "title": "Weekly Teen Parsha PDF",
+      "description": "Makes Manny a one-page weekly parsha PDF aimed at 13\u201318 year olds.",
+      "serverId": "11768637"
+    },
+    {
+      "slug": "forge-new-bot-builder",
+      "id": "38970ce2-3f3b-41dd-ab27-27c5510f71a4",
+      "name": "Forge-New Bot Builder",
+      "full_name": "Forge-New Bot Builder",
+      "title": "",
+      "description": "Forge designs a new Grok Bot for any job you describe: a complete, ready-to-run spec in minutes, then creates the bot once you say yes.",
+      "serverId": "22166866"
+    },
+    {
+      "slug": "email-purger",
+      "id": "604b5043-13ef-4fed-8501-7fa24112766f",
+      "name": "Email Purger",
+      "full_name": "Email Purger",
+      "title": "",
+      "description": "Reviews Manny's inbox, groups newsletters, promotions, stale threads, and other unneeded mail by type, and prepares delete, archive, and unsubscribe actions.",
+      "serverId": "23087730"
+    },
+    {
+      "slug": "animator-video-creator",
+      "id": "772b090b-baea-4078-b092-2ffb3e756e47",
+      "name": "Animator-Video Creator",
+      "full_name": "Animator-Video Creator",
+      "title": "",
+      "description": "A personal motion graphic designer.",
+      "serverId": "28354471"
+    },
+    {
+      "slug": "routines",
+      "id": "8f24ef4a-7b60-4133-b23f-16b79bcca930",
+      "name": "Routines",
+      "full_name": "Routines",
+      "title": "",
+      "description": "Routines houses and runs every routine for Manny Topper's bots (except Usage Guard and Volt - Usage Audit, which are never touched; never create a Volt schedule).",
+      "serverId": "25375012"
+    },
+    {
+      "slug": "insurance-info-meeting-prep",
+      "id": "8f4b70f5-6cdc-47b2-8be7-500102a5a687",
+      "name": "Insurance info",
+      "full_name": "Insurance info \u00b7 Meeting Prep",
+      "title": "Meeting Prep",
+      "description": "Manny's insurance and office operations bot at Wealcatch Insurance.",
+      "serverId": "13404583"
+    },
+    {
+      "slug": "spackler-golf-practice",
+      "id": "a5449afd-2cea-4036-9aed-4842e7919063",
+      "name": "Spackler - Golf Practice",
+      "full_name": "Spackler - Golf Practice",
+      "title": "",
+      "description": "Manny's golf practice bot.",
+      "serverId": "13640702"
+    },
+    {
+      "slug": "shopping-agent-best-price-coupons-discount-codes",
+      "id": "acb8cb37-5a83-4cbb-9048-7a0b49f58f2c",
+      "name": "\ud83d\udecd\ufe0f SHOPPING AGENT: BEST PRICE COUPONS DISCOUNT CODES",
+      "full_name": "\ud83d\udecd\ufe0f SHOPPING AGENT: BEST PRICE COUPONS DISCOUNT CODES",
+      "title": "",
+      "description": "Finds the lowest verified total price for anything you want to buy, tests coupon codes, and shows every discount and how it applies.",
+      "serverId": "25824122"
+    },
+    {
+      "slug": "connor-executive-assistant",
+      "id": "c85554f7-1416-4e83-b6ed-51701ce0d71f",
+      "name": "Connor",
+      "full_name": "Connor \u00b7 Executive Assistant",
+      "title": "Executive Assistant",
+      "description": "Executive Assistant to Manny Topper.",
+      "serverId": "10886170"
+    },
+    {
+      "slug": "volt-usage-audit",
+      "id": "e6a00c3e-b96b-40e3-a8fe-c331c57371bf",
+      "name": "Volt - Usage Audit",
+      "full_name": "Volt - Usage Audit",
+      "title": "",
+      "description": "Volt watches Manny Topper\u2019s Grok Bot plan usage and routines.",
+      "serverId": "26824214"
+    }
+  ],
+  "skills": [
+    {
+      "slug": "academy-standing-rules-gap",
+      "name": "Academy standing-rules gap"
+    },
+    {
+      "slug": "aeo-geo-site",
+      "name": "aeo-geo-site"
+    },
+    {
+      "slug": "ai-citation-sources",
+      "name": "ai-citation-sources"
+    },
+    {
+      "slug": "ai-search-gap-loop",
+      "name": "ai-search-gap-loop"
+    },
+    {
+      "slug": "auditing-a-bot-at-30-days",
+      "name": "Auditing a bot at 30 days"
+    },
+    {
+      "slug": "blues-recap-pdf",
+      "name": "blues-recap-pdf"
+    },
+    {
+      "slug": "calendar-one-way-sync",
+      "name": "calendar-one-way-sync"
+    },
+    {
+      "slug": "calendar-tidy-check",
+      "name": "calendar-tidy-check"
+    },
+    {
+      "slug": "chatgpt-images-browser-playbook",
+      "name": "chatgpt-images-browser-playbook"
+    },
+    {
+      "slug": "checking-live-status-before-review",
+      "name": "Checking live status before review"
+    },
+    {
+      "slug": "coach",
+      "name": "coach"
+    },
+    {
+      "slug": "conducting-deep-research",
+      "name": "conducting-deep-research"
+    },
+    {
+      "slug": "decision-queue",
+      "name": "decision-queue"
+    },
+    {
+      "slug": "design-taste-frontend",
+      "name": "design-taste-frontend"
+    },
+    {
+      "slug": "diagram-design",
+      "name": "diagram-design"
+    },
+    {
+      "slug": "domain-research",
+      "name": "domain-research"
+    },
+    {
+      "slug": "draft",
+      "name": "draft"
+    },
+    {
+      "slug": "email-purger-group",
+      "name": "email-purger-group"
+    },
+    {
+      "slug": "exact-match-intent-seo",
+      "name": "exact-match-intent-seo"
+    },
+    {
+      "slug": "explain-it-simply",
+      "name": "explain-it-simply"
+    },
+    {
+      "slug": "fleet-memory-prune",
+      "name": "Fleet memory prune"
+    },
+    {
+      "slug": "fleet-prompt-injection-guard",
+      "name": "Fleet prompt-injection guard"
+    },
+    {
+      "slug": "improving-prompts",
+      "name": "improving-prompts"
+    },
+    {
+      "slug": "inbox-digest-build",
+      "name": "inbox-digest-build"
+    },
+    {
+      "slug": "last30days",
+      "name": "last30days"
+    },
+    {
+      "slug": "local-feed-routine",
+      "name": "Local feed routine"
+    },
+    {
+      "slug": "markdown-twin",
+      "name": "markdown-twin"
+    },
+    {
+      "slug": "meeting-prep-one-pager",
+      "name": "meeting-prep-one-pager"
+    },
+    {
+      "slug": "morning-combined-run",
+      "name": "morning-combined-run"
+    },
+    {
+      "slug": "morning-parts",
+      "name": "morning-parts"
+    },
+    {
+      "slug": "motion-picker",
+      "name": "motion-picker"
+    },
+    {
+      "slug": "muni-golf-watch",
+      "name": "muni-golf-watch"
+    },
+    {
+      "slug": "no-ai-slop",
+      "name": "no-ai-slop"
+    },
+    {
+      "slug": "outline",
+      "name": "outline"
+    },
+    {
+      "slug": "price-watch-routine",
+      "name": "Price watch routine"
+    },
+    {
+      "slug": "process-transactnow-payment-claims",
+      "name": "Process TransactNOW Payment Claims"
+    },
+    {
+      "slug": "redesign-existing-projects",
+      "name": "redesign-existing-projects"
+    },
+    {
+      "slug": "route-to-the-right-bot",
+      "name": "route-to-the-right-bot"
+    },
+    {
+      "slug": "routine-gate",
+      "name": "routine-gate"
+    },
+    {
+      "slug": "routine-healthcheck",
+      "name": "Routine healthcheck"
+    },
+    {
+      "slug": "running-efficient-recurring-work",
+      "name": "Running efficient recurring work"
+    },
+    {
+      "slug": "running-founder-office-hours",
+      "name": "Running founder office hours"
+    },
+    {
+      "slug": "running-unattended-routines-and-triggers",
+      "name": "Running unattended routines and triggers"
+    },
+    {
+      "slug": "saving-a-job-as-a-skill",
+      "name": "Saving a job as a skill"
+    },
+    {
+      "slug": "shabbat-gate",
+      "name": "shabbat-gate"
+    },
+    {
+      "slug": "ship-post",
+      "name": "ship-post"
+    },
+    {
+      "slug": "show-me",
+      "name": "show-me"
+    },
+    {
+      "slug": "social-copywriting",
+      "name": "social-copywriting"
+    },
+    {
+      "slug": "source-check",
+      "name": "source-check"
+    },
+    {
+      "slug": "storytelling-hooks",
+      "name": "storytelling-hooks"
+    },
+    {
+      "slug": "top-edit",
+      "name": "top-edit"
+    },
+    {
+      "slug": "transcript-healthcheck",
+      "name": "Transcript healthcheck"
+    },
+    {
+      "slug": "verified-deep-research",
+      "name": "Verified deep research"
+    },
+    {
+      "slug": "vertafore-download-detail-mt",
+      "name": "vertafore-download-detail-mt"
+    },
+    {
+      "slug": "weekly-parsha-sheet-build",
+      "name": "Weekly parsha sheet build"
+    },
+    {
+      "slug": "whetstone-signal",
+      "name": "whetstone-signal"
+    },
+    {
+      "slug": "wiki-sync-from-shared-drive",
+      "name": "wiki-sync-from-shared-drive"
+    },
+    {
+      "slug": "write-like-manny",
+      "name": "write-like-manny"
+    },
+    {
+      "slug": "writing-prose",
+      "name": "writing-prose"
+    },
+    {
+      "slug": "x-article",
+      "name": "x-article"
+    },
+    {
+      "slug": "x-tips-dedupe",
+      "name": "x-tips-dedupe"
+    },
+    {
+      "slug": "x-watch-deck-build",
+      "name": "x-watch-deck-build"
+    },
+    {
+      "slug": "youtube-summary-one-pager",
+      "name": "youtube-summary-one-pager"
+    }
+  ],
+  "routines": [
+    {
+      "file": "routines/prompts/ams-weekday-reminder.md",
+      "name": "ams weekday reminder",
+      "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
+    },
+    {
+      "file": "routines/prompts/answer-emailed-insurance-questions.md",
+      "name": "answer emailed insurance questions",
+      "summary": "Moved to Routines from Insurance info \u00b7 Meeting Prep on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/arccos-dashboard-friday-refresh.md",
+      "name": "Arccos Dashboard Friday refresh (requested by Manny via Spackler, Nov 20, 2026: \"refresh every friday\")",
+      "summary": "1."
+    },
+    {
+      "file": "routines/prompts/biweekly-work-outlook-cleanout.md",
+      "name": "biweekly work outlook cleanout",
+      "summary": "Moved to Routines from Email Purger on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/golf-practice-evening-reminder.md",
+      "name": "golf practice evening reminder",
+      "summary": "SKIP WINDOW (added Nov 17, 2026 at Manny's request \"Pause golf practice this week\", relayed by Connor): if today's America/New_York date is from 2026-11-17 through 2026-11-21,\u2026"
+    },
+    {
+      "file": "routines/prompts/griots-interior-cleaner-checkin.md",
+      "name": "griots interior cleaner checkin",
+      "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
+    },
+    {
+      "file": "routines/prompts/grokbot-dashboard-refresh.md",
+      "name": "grokbot dashboard refresh",
+      "summary": "Moved to Routines from Alfred \u00b7 Bot Chief Advisor on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/meeting-prep-docs-2-to-4-hours-before-each-meeti.md",
+      "name": "meeting prep docs 2 to 4 hours before each meeti",
+      "summary": "Moved to Routines from Insurance info \u00b7 Meeting Prep on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/monday-waiting-on-you-list.md",
+      "name": "monday waiting on you list",
+      "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
+    },
+    {
+      "file": "routines/prompts/monthly-bot-portfolio-strategy-review.md",
+      "name": "monthly bot portfolio strategy review",
+      "summary": "Moved to Routines from Alfred \u00b7 Bot Chief Advisor on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/monthly-gmail-cleanout.md",
+      "name": "monthly gmail cleanout",
+      "summary": "First-Monday check (added Nov 13, 2026): run `date +%u` and `date +%d` (America/New_York)."
+    },
+    {
+      "file": "routines/prompts/morning-combined-run.md",
+      "name": "morning combined run",
+      "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
+    },
+    {
+      "file": "routines/prompts/muni-golf-ipad-app-watch.md",
+      "name": "muni golf ipad app watch",
+      "summary": "Moved to Routines from Spackler - Golf Practice on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/open-office-follow-ups-watch.md",
+      "name": "open office follow ups watch",
+      "summary": "Moved to Routines from Insurance info \u00b7 Meeting Prep on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/order-concierge-sweep.md",
+      "name": "order concierge sweep",
+      "summary": "Moved to Routines from Murray \u00b7 Family and Home on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/overdue-work-email-nudge.md",
+      "name": "overdue work email nudge",
+      "summary": "Created by Routines on Nov 13, 2026 (Manny picked idea 1 from the weekly routine ideas)."
+    },
+    {
+      "file": "routines/prompts/parsha-trailer-handoff.md",
+      "name": "parsha trailer handoff",
+      "summary": "Parsha trailer handoff (created Nov 20, 2026 in Routines at Animator-Video Creator's request, relayed as Manny's ask)."
+    },
+    {
+      "file": "routines/prompts/quarterly-company-ai-operating-model-review.md",
+      "name": "quarterly company ai operating model review",
+      "summary": "Moved to Routines from Alfred \u00b7 Bot Chief Advisor on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/quarterly-people-search-recheck.md",
+      "name": "quarterly people search recheck",
+      "summary": "Moved to Routines from Privacy Scrubber on Nov 13, 2026 (Manny asked Privacy Scrubber to move it)."
+    },
+    {
+      "file": "routines/prompts/resume-golf-practice-reminder.md",
+      "name": "resume golf practice reminder",
+      "summary": "Moved to Routines from Spackler - Golf Practice on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/shared-calendar-sync.md",
+      "name": "shared calendar sync",
+      "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
+    },
+    {
+      "file": "routines/prompts/sunday-family-week-ahead.md",
+      "name": "sunday family week ahead",
+      "summary": "Created by Routines on Nov 13, 2026 (Manny picked idea 3 from the weekly routine ideas)."
+    },
+    {
+      "file": "routines/prompts/weekday-local-feed.md",
+      "name": "weekday local feed",
+      "summary": "Moved to Routines from Murray \u00b7 Family and Home on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/weekly-company-grok-bot-improvement-review.md",
+      "name": "weekly company grok bot improvement review",
+      "summary": "Moved to Routines from Alfred \u00b7 Bot Chief Advisor on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/weekly-grok-bot-setup-review.md",
+      "name": "weekly grok bot setup review",
+      "summary": "Moved from Connor to Routines on Nov 16, 2026 (Manny said yes)."
+    },
+    {
+      "file": "routines/prompts/weekly-renewals-due-list.md",
+      "name": "weekly renewals due list",
+      "summary": "Created by Routines on Nov 13, 2026 (Manny picked idea 2; he chose 30 and 60 day windows, not 90)."
+    },
+    {
+      "file": "routines/prompts/weekly-usage-leak-check.md",
+      "name": "weekly usage leak check",
+      "summary": "Requested by Manny in Volt's chat, Nov 16, 2026 (relayed by Volt)."
+    },
+    {
+      "file": "routines/prompts/wiki-sync-on-login-company-forms-rates.md",
+      "name": "wiki sync on login company forms rates",
+      "summary": "Moved to Routines from Insurance info \u00b7 Meeting Prep on Nov 12, 2026."
+    },
+    {
+      "file": "routines/prompts/yearly-do-not-call-check.md",
+      "name": "Yearly Do Not Call registry check",
+      "summary": "Requested by Manny via Alfred (Manny's yes in Alfred's chat, Nov 13, 2026: \"yes to all three merge steps\")."
+    }
+  ],
+  "stats": {
+    "bots": 15,
+    "skills": 63,
+    "routine_prompts": 29,
+    "files_copied": 215,
+    "redactions": {
+      "personal_email": 26
+    },
+    "redacted_file_count": 15,
+    "files_skipped_large": [],
+    "files_skipped_other_count": 0
+  }
+}

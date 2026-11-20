@@ -1,0 +1,10 @@
+{
+  "name": "Dreamer · Bot Team Optomizer",
+  "description": "Reviews your bot team's work every night, turns repeated fixes and lessons into reusable skills and memories, and proposes ongoing goals for each bot, so your team gets better over time.",
+  "title": "",
+  "avatarShape": "blob",
+  "avatarColor": "black",
+  "namedBy": "user",
+  "serverId": "21175316",
+  "harness": "temporal"
+}
