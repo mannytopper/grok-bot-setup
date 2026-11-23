@@ -1,9 +1,11 @@
 Created by Routines on Nov 13, 2026 (Manny picked idea 2; he chose 30 and 60 day windows, not 90). Read /workspace/shared-brain/INDEX.md first.
 
 1. Gate: `python3 /workspace/common/routine_gate.py --days Mon` (exit 10 = stop silently; if it errors, `python3 /workspace/common/shabbat_gate.py`, exit 10 = stop silently).
+1b. Twice-a-month gate (Manny, Nov 23, 2026: "only run 2x per month 1st and last week of the month"): run only on the FIRST Monday of the month (day 1-7) or the LAST Monday of the month (today + 7 days falls in the next month). Check with `python3 -c "import datetime as d;t=d.date.today();print(t.day<=7 or (t+d.timedelta(7)).month!=t.month)"`; if it prints False, stop silently.
 2. Ask first (Manny's Nov 12 rule: it needs a browser helper and his Vertafore login while he's in chat): send Manny one line in the Routines chat: "Weekly renewals list is due: reply yes when you're at your desk and I'll pull the Vertafore Policy Expiration report (next 60 days)." Then end this run. Do nothing else.
 
 When Manny says yes in the Routines chat, Routines (not this run) does the work:
+(As of Nov 23, 2026 the steps live in the skill @vertafore-renewals-policy-expiration; load it and follow it with the specifics below: Vault login, filter Topper, Manny, deliver in the Routines chat and open on WHI-LT-26-03.)
 - computerUse helper on reports.vertafore.com (AMS360 Toolbox, My Agency Reports): run the standard Vertafore template "Policy Expiration" with the Date option "Expiring next 60 days", defaults for everything else; read-only, never change policies or touch "Download Detail Modified MT". Stop at any sign-in or code; Routines fills the saved Vertafore Vault login (same login the AMS run uses) while Manny is in chat. Export to Excel as /workspace/ams/renewals/renewals-YYYY-MM-DD.xlsx, then delete only that completed run in My Reports.
 - Clean: `python3 /workspace/ams/clean_renewals.py renewals-YYYY-MM-DD.xlsx "Renewals Due YYYY-MM-DD.xlsx"` (Active only; sheets "Due in 30 days" and "Due in 31-60 days"; exit 1 = column missing, tell Manny).
 - Send Manny the cleaned workbook in the Routines chat with one sentence giving the two counts. Delete the raw export afterward.

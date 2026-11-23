@@ -355,6 +355,10 @@
       "name": "vertafore-download-detail-mt"
     },
     {
+      "slug": "vertafore-renewals-policy-expiration",
+      "name": "vertafore-renewals-policy-expiration"
+    },
+    {
       "slug": "weekly-parsha-sheet-build",
       "name": "Weekly parsha sheet build"
     },
