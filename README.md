@@ -16,6 +16,16 @@ This is a point-in-time copy. It is not a live sync, and it does not restore bot
 | `skills/` | Every skill from the workflows library (`SKILL.md` plus helper files) |
 | `routines/` | Routine prompts, the Nov 12, 2026 inventory/schedule table, context notes, handoff prompts, and retired prompts |
 | `shared/` | Shared standing rules: `INDEX.md`, Connor's `BRIEF.md`, and the other current shared-brain documents |
+| `roster/` | Current bot roster (November 24, 2026): every bot with its role, routines, and skills, as Markdown and a printable PDF |
+
+## Bot roster
+
+A current directory of all 15 bots, the routines they run, and the skills they share, dated November 24, 2026:
+
+- [BOT-ROSTER.md](roster/BOT-ROSTER.md)
+- [Manny-Bot-Roster-2026-11-24.pdf](roster/Manny-Bot-Roster-2026-11-24.pdf)
+
+Routine enabled and paused states in the roster come from the Routines bot records through November 23, 2026, and from Connor's brief dated November 20, 2026. A live routine list from the app was not available when it was built.
 
 ## Bots (15)
 
